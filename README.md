@@ -5,7 +5,7 @@ Russian Diktor +  Dvorak Layout
 
 
 # Installation on windowsl
-Just run setup.exe from diktorru directory. It will install layout to the Russian layouts with name "diktorru"
+Just run setup.exe from diktorru directory. It will install layout to the Russian layouts with name "for inspiration".
 
 # Installation on Ubuntu
 
