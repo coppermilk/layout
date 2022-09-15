@@ -1,7 +1,7 @@
 # diktor
 Russian Diktor +  Dvorak Layout
 
-![Diktor](https://raw.githubusercontent.com/dievri/diktor/master/diktor.jpg)
+![Diktor + Dvorak](https://raw.githubusercontent.com/coppermilk/layout/blob/main/Diktor%20%2B%20Dvorak.png)
 
 # Installation on windows
 Just run setup.exe from diktorru directory. It will install layout to the Russian layouts with name "diktorru"
