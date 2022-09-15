@@ -1,4 +1,4 @@
-# diktor
+# ru pro
 Russian Diktor +  Dvorak Layout
 
 ![Diktor + Dvorak](https://raw.githubusercontent.com/coppermilk/layout/main/Diktor%20%2B%20Dvorak.png)
