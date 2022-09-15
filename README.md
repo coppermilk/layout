@@ -92,7 +92,7 @@ xkb_symbols "rudiktordworak" {
 
 2. To the file `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb/rules/evdev.lst` under section `! variant`, add following line
 ```
-diktor 	  ru: Russian (diktor)
+rudiktordworak 	  ru: Russian Diktor + Dvorak
 ```
 3. To the file `/usr/share/X11/xkb/rules/base.xml` and `/usr/share/X11/xkb/rules/evdev.xml` add diktor as a variant to the Russian language
 ```
@@ -107,7 +107,7 @@ This should be placed somewhere after
 ```
 <layout>
   <configItem>
-    <name>ru</name>
+    <name>ru pro</name>
     <!-- Keyboard indicator for Russian ayouts -->
     <shortDescription>ru</shortDescription>
     <description>Russian</description>
