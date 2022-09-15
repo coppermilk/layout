@@ -1,9 +1,9 @@
 //   DIKTOR DVORAK
 
 partial alphanumeric_keys
-xkb_symbols "diktordworak" {
+xkb_symbols "rudiktordworak" {
 
-    name[Group1]= "Russian (diktordworak)";
+    name[Group1]= "Russian (rudiktordworak)";
 
 
     key <TLDE> {        [    guillemotleft,  		dollar  ] 	};
