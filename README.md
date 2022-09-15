@@ -1,7 +1,7 @@
 # ru pro
-Russian Diktor +  Dvorak Layout
+Russian Diktor +  Dvorak Layout = ru pro
 
-![Diktor + Dvorak](https://raw.githubusercontent.com/coppermilk/layout/main/Diktor%20%2B%20Dvorak.png)
+![ru pro](https://raw.githubusercontent.com/coppermilk/layout/main/Diktor%20%2B%20Dvorak.png)
 
 
 # Installation on windowsl
