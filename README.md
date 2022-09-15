@@ -1,5 +1,5 @@
 # ru pro
-Russian Diktor +  Dvorak Layout = Ru Pro
+Russian Diktor +  Dvorak = Ru pro
 
 ![ru pro](https://raw.githubusercontent.com/coppermilk/layout/main/Diktor%20%2B%20Dvorak.png)
 
