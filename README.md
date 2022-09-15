@@ -48,7 +48,7 @@ xkb_symbols "rudiktordworak" {
     key	<AE11> {	[      	  asterisk, 		8	]	};
     key	<AE12> {	[	     equal,	        plus	]	};
     key	<BKSL> {	[	 apostrophe,             bar	]	};
-    key	<AB10> {	[	     apostrophe,	        question]	};
+    key	<AB10> {	[	     apostrophe,        question]	};
     key <LSGT> {        [       apostrophe,             bar     ]       };
 
     key <AD01> {        [     Cyrillic_tse,          	Cyrillic_TSE   		]    };
@@ -74,7 +74,7 @@ xkb_symbols "rudiktordworak" {
     key <AC08> {        [     Cyrillic_te,     Cyrillic_TE  ]    };
     key <AC09> {        [     Cyrillic_es,     Cyrillic_ES  ]    };
     key <AC10> {        [     Cyrillic_er,     Cyrillic_ER  ]    };
-    key <AC11> { [     Cyrillic_shorti,     Cyrillic_SHORTI  ] };
+    key <AC11> {        [ Cyrillic_shorti,  Cyrillic_SHORTI ]    };
   
 
     key <AB01> {        [     Cyrillic_ef,     Cyrillic_EF  ]    };
