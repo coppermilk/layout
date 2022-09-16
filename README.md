@@ -11,7 +11,7 @@ Just run setup.exe from diktorru directory. It will install layout to the Russia
 
 For manual installation, follow this steps:
 
-1. Copy content of the file `diktor` into `/usr/share/X11/xkb/symbols/ru` file. 
+1. Copy content of the file `rudiktordworak` into `/usr/share/X11/xkb/symbols/ru` file. 
 
 After chunk
 ```
