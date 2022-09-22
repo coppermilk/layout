@@ -1,0 +1,62 @@
+//   DIKTOR        TPWRT, Russian
+
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+
+    name[Group1]= "DIKTOR";
+
+
+    key <TLDE> {        [    guillemotleft,  		dollar  ] 	};
+    key	<AE01> {	[   guillemotright, 		U20B4	]	};
+    key	<AE02> {	[          percent, 		7	]	};
+    key	<AE03> {	[          section, 		5	]	};
+    key	<AE04> {	[       numerosign, 		3	]	};
+    key	<AE05> {	[            colon,	        1	]	};
+    key	<AE06> {	[        semicolon, 		9	]	};
+    key	<AE07> {	[	    emdash, 		0	]	};
+    key	<AE08> {	[	  quotedbl, 		2	]	};
+    key	<AE09> {	[ 	 parenleft, 		4	]	};
+    key	<AE10> {	[       parenright, 		6	]	};
+    key	<AE11> {	[      	  asterisk, 		8	]	};
+    key	<AE12> {	[	     equal,	        plus	]	};
+    key	<BKSL> {	[	 apostrophe,             bar	]	};
+    key	<AB10> {	[	     apostrophe,	        question]	};
+    key <LSGT> {        [       apostrophe,             bar     ]       };
+
+    key <AD01> {        [     Cyrillic_tse,          	Cyrillic_TSE   		]    };
+    key <AD02> {        [            comma,      	question    		]    };
+    key <AD03> {  	[           period,    		exclam         	        ]    };
+    key <AD04> {  	[Cyrillic_softsign,		Cyrillic_hardsign   	]    };
+    key <AD05> {        [      Cyrillic_ya, 		Cyrillic_YA    		]    };
+    key <AD06> {        [      Cyrillic_ze,   		Cyrillic_ZE   		]    };
+    key <AD07> {        [      Cyrillic_ve,  		Cyrillic_VE   		]    };
+    key <AD08> {        [      Cyrillic_ka,   		Cyrillic_KA  	        ]    };
+    key <AD09> {        [      Cyrillic_de,   		Cyrillic_DE   		]    };
+    key <AD10> {        [     Cyrillic_che,   		Cyrillic_CHE   		]    };
+    key <AD11> {        [     Cyrillic_sha,    		Cyrillic_SHA    	]    };
+    key <AD12> {        [   Cyrillic_shcha,  		Cyrillic_SHCHA   	]    };
+
+    key <AC01> {   	[      Cyrillic_u,    Cyrillic_U    ]    };
+    key <AC02> { 	[      Cyrillic_o,    Cyrillic_O    ]    };
+    key <AC03> { 	[     Cyrillic_ie,     Cyrillic_IE  ]    };
+    key <AC04> {	[      Cyrillic_i,    Cyrillic_I    ]    };
+    key <AC05> {        [      Cyrillic_a,    Cyrillic_A    ]    };
+    key <AC06> {        [     Cyrillic_el,     Cyrillic_EL  ]    };
+    key <AC07> {        [     Cyrillic_en,     Cyrillic_EN  ]    };
+    key <AC08> {        [     Cyrillic_te,     Cyrillic_TE  ]    };
+    key <AC09> {        [     Cyrillic_es,     Cyrillic_ES  ]    };
+    key <AC10> {        [     Cyrillic_er,     Cyrillic_ER  ]    };
+    key <AC11> { [     Cyrillic_shorti,     Cyrillic_SHORTI  ] };
+  
+
+    key <AB01> {        [     Cyrillic_ef,     Cyrillic_EF  ]    };
+    key <AB02> {        [      Cyrillic_e,    Cyrillic_E    ]    };
+    key <AB03> {        [     Cyrillic_ha,     Cyrillic_HA  ]    };
+    key <AB04> {        [   Cyrillic_yeru,   Cyrillic_YERU  ]    };
+    key <AB05> {        [     Cyrillic_yu,     Cyrillic_YU  ]    };
+    key <AB06> {        [     Cyrillic_be,     Cyrillic_BE  ]    };
+    key <AB07> {        [     Cyrillic_em,     Cyrillic_EM  ]    };
+    key <AB08> {        [     Cyrillic_pe,     Cyrillic_PE  ]    };
+    key <AB09> {        [    Cyrillic_ghe,    Cyrillic_GHE  ]    };
+    key <AB10> {        [    Cyrillic_zhe,    Cyrillic_ZHE  ]    };
+};
