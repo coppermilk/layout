@@ -5,7 +5,7 @@ xkb_symbols "basic" {
 
     name[Group1]= "DIKTOR";
 
-
+    // Alphanumeric section
     key <TLDE> {        [    guillemotleft,  		dollar  ] 	};
     key	<AE01> {	[   guillemotright, 		U20B4	]	};
     key	<AE02> {	[          percent, 		7	]	};
@@ -59,4 +59,9 @@ xkb_symbols "basic" {
     key <AB08> {        [     Cyrillic_pe,     Cyrillic_PE  ]    };
     key <AB09> {        [    Cyrillic_ghe,    Cyrillic_GHE  ]    };
     key <AB10> {        [    Cyrillic_zhe,    Cyrillic_ZHE  ]    };
+
+    key <BKSL> {	[ slash,	backslash	]	};
+    
+    // End alphanumeric section
+
 };
